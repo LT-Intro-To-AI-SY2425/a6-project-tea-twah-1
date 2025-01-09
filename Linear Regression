@@ -1,3 +1,4 @@
+
 from ucimlrepo import fetch_ucirepo 
   
 # fetch dataset 
@@ -12,3 +13,4 @@ print(estimation_of_obesity_levels_based_on_eating_habits_and_physical_condition
   
 # variable information 
 print(estimation_of_obesity_levels_based_on_eating_habits_and_physical_condition.variables) 
+
